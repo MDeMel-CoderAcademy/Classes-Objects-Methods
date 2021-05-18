@@ -10,7 +10,7 @@ class GiftStop
      @visited_persons = []
      @gifts_given = []
 
-        count = 0
+       count = 0
         while count < 5
            @visited_persons << Person.new
            @visited_persons[count].name = @persons[count]
