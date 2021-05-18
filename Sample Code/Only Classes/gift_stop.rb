@@ -1,4 +1,4 @@
-require_relative 'word_splitter'
+require_relative 'person'
 require_relative 'giftbox'
 
 class GiftStop
